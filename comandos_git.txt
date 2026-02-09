@@ -3,3 +3,4 @@ git status > mostra o status do trabalho(de cada arquivo)
 git add "nome do arquivo" > adciona arquivo para ser commitado
 git commit -m > faz commit do que estava para ser commitado
 git log > mostra todos os histórico de commit
+git checkout "branch" > cria ou muda para outra branch
